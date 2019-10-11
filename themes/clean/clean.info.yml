@@ -1,0 +1,28 @@
+name: 'clean'
+type: theme
+description: 'Clean is an empty pattern'
+base theme: Bartik
+
+# Regions
+regions:
+  header: Header
+  homequotes: Home Quotes
+  home_high1: Home Highlight 1
+  home_high2: Home Highlight 2
+  home_high3: Home Highlight 3
+  content_top: Content Top
+  content: Content
+  sidebar_first: First Sidebar
+  sidebar_second: Second Sidebar
+  footer_first: First Bottom
+  footer_second: Second Bottom
+  footer_third: Third Bottom
+  footer_fourth: Fourth Bottom
+  footer: Footer
+
+# Features
+
+
+# Information added by Drupal.org 
+version: '0.4'
+core: '8.x'
